@@ -41,7 +41,7 @@ public class FormatTemplateV4 {
 
         banner = "*****************************" + nl;
         banner += "Name:        Sveinson" + nl;
-        banner += "Class:       CS30S" + nl;
+        banner += "Class:       CS20S" + nl;
         banner += "Assignment:  Ax Qy" + nl;
         banner += "*****************************" + nl + nl;
 
